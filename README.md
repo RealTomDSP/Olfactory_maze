@@ -1,6 +1,6 @@
 # WOMBAT Alternation Maze 
 
-The **WOMBAT** system is an automated behavioral testing platform designed for animal models, integrating an alternation maze with precise scent delivery, reward dispensing, and capacitive touch sensing. It allows for complex behavioral tasks including sustained contact ("Hold") and rapid response ("Withdraw") trials.
+The WOMBAT system is an automated behavioral testing platform designed for animal models, integrating an alternation maze with precise scent delivery, reward dispensing, and capacitive touch sensing. It allows for complex behavioral tasks including sustained contact ("Hold") and rapid response ("Withdraw") trials.
 ---
 
 ## Project Overview
